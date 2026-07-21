@@ -6,7 +6,7 @@
  */
 const CONFIG = {
   // Paste the Web App URL you got after deploying Code.gs
-  API_URL: 'https://script.google.com/macros/s/AKfycbzKSymMeSPwBVpK1-2OLllH_skGlFj_zHAXqZKBHa6Qg532_H6ksYAZsRpboJ4tWM2Svw/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbypx0FulZaTM-aegjBmljxlzXCPqX9uEzPz_gngOlLigoWFWiDOotstcV_ITJ7mpcjjrA/exec',
 
   SITE_NAME: 'MS-Shoppy',
   TAGLINE: 'Special & Custom products, delivered. Pay when it arrives.',
