@@ -1,4 +1,4 @@
-.admin-body { background: var(--paper); }
+.admin-body { background:linear-gradient(135deg,#F6F8FF,#FFF0F8); }
 
 /* ---------- Login ---------- */
 .login-screen {
