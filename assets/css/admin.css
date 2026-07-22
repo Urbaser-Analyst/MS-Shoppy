@@ -299,3 +299,29 @@
 }
 
 .media-admin-actions .icon-btn { flex: 1; }
+/* --- Logo */
+
+.logo{
+    height:50px;
+    width:auto;
+    display:block;
+}
+
+.brand-mark{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    font-size:22px;
+    font-weight:700;
+    color:#1B4EF5;
+}
+
+.login-mark{
+    display:flex;
+    justify-content:center;
+    margin-bottom:20px;
+}
+
+.login-mark .logo{
+    height:70px;
+}
