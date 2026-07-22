@@ -9,7 +9,7 @@ const CONFIG = {
   API_URL: 'https://script.google.com/macros/s/AKfycbypx0FulZaTM-aegjBmljxlzXCPqX9uEzPz_gngOlLigoWFWiDOotstcV_ITJ7mpcjjrA/exec',
 
   SITE_NAME: 'MS-Shoppy',
-  TAGLINE: 'Special & Custom products, delivered. Pay when it arrives.',
+  TAGLINE: 'SHOP MORE • SAVE MORE • GROW TOGETHER',
   CURRENCY: '\u20B9',
 
   // Optional: shown on the order confirmation ticket
