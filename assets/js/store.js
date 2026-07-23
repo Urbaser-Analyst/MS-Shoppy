@@ -521,7 +521,7 @@ function showReceipt(orderId, order) {
     <div class="receipt-divider"></div>
     <div class="receipt-row total"><span>Total to pay on delivery</span><span>${formatMoney(order.totalAmount)}</span></div>
     <div class="receipt-note">
-      Thanks, ${escapeHtml(order.customerName)}! Our executive will call you shortly to confirm this order, then deliver to ${escapeHtml(order.address)}, ${escapeHtml(order.city)} and collect payment in cash on arrival.
+      Thanks, ${escapeHtml(order.customerName)}! Our executive will call you shortly to confirm this order, then deliver to ${escapeHtml(order.address)}, ${escapeHtml(order.city)} .
     </div>
     <button class="continue-btn" onclick="closeModal('confirmModal')">Continue shopping</button>
   `;
