@@ -15,7 +15,7 @@ const CONFIG = {
   CURRENCY: '\u20B9',
 
   // Optional: shown on the order confirmation ticket
-  SUPPORT_PHONE: '+91 9940959840',
+  SUPPORT_PHONE: '+91 9940959840 | msshoppyecom@gmail.com',
 
   // ------------------------------------------------------------------
   // SHOW_PRODUCT_VIDEO / SHOW_BANNER_LINKS
